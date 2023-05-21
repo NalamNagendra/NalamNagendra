@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NalamNagendra
-- 👀 I’m interested in Full Stack-Web Development
+- 👀 I’m aspiring SDE and interested in Full Stack-Web Development
 - 🌱 I’m currently learning JAVA,CSS,PHP With BACKEND FRAMEWORKS
 - 💞️ I’m looking to collaborate on full stack  technology projects
 - 📫 How to reach me  https://www.linkedin.com/in/nagendra1611
